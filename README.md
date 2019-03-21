@@ -1,3 +1,6 @@
+# tensorflow2.0 Document
+https://www.tensorflow.org/versions/r2.0/api_docs/python/tf
+
 # tensorflowの実装の流れ
 1. モデルの定義
 2. 誤差関数の定義
